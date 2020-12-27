@@ -1,0 +1,18 @@
+*{
+margin: 1px;
+padding: 01px;
+}
+h1{
+font:bold 20px Tahoma;
+}
+h2{
+font:bold 14px Tahoma;
+}
+header, section, footer, aside, nav, article, hgroup {
+display:block;
+}
+body{
+width:100px
+display:-webkit-box;
+-webkit-box-pack: center;
+}
